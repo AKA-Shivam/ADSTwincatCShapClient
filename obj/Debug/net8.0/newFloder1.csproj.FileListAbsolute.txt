@@ -1,0 +1,70 @@
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\newFloder1.exe
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\newFloder1.deps.json
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\newFloder1.runtimeconfig.json
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\newFloder1.pdb
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\TwinCAT.Ads.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\TwinCAT.Ads.Abstractions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\TwinCAT.Ads.Server.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Reactive.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.csproj.AssemblyReference.cache
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.AssemblyInfoInputs.cache
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.AssemblyInfo.cs
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.csproj.CoreCompileInputs.cache
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.csproj.CopyComplete
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\refint\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.pdb
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\newFloder1.genruntimeconfig.cache
+E:\C# Projects\ADS Twincat C# Client\C#\newFloder1\obj\Debug\net8.0\ref\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\newFloder1.exe
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\newFloder1.deps.json
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\newFloder1.runtimeconfig.json
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\newFloder1.pdb
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\TwinCAT.Ads.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\TwinCAT.Ads.Abstractions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\TwinCAT.Ads.Server.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Reactive.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.csproj.AssemblyReference.cache
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.AssemblyInfoInputs.cache
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.AssemblyInfo.cs
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.csproj.CoreCompileInputs.cache
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.csproj.CopyComplete
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\refint\newFloder1.dll
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.pdb
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\newFloder1.genruntimeconfig.cache
+E:\C# Projects\ADS Twincat C# Client\C#\ADS Twincat C# Client\obj\Debug\net8.0\ref\newFloder1.dll

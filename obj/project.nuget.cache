@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "peZZiZy06ZEPu65fG57rYwCj3C7N79ETCn6rcRDXBATXE0Bsxpqy67iF9TqURqmvwrN7dGJXoMbs91Z7RBtR9Q==",
+  "success": true,
+  "projectFilePath": "E:\\C# Projects\\ADS Twincat C# Client\\C#\\ADS Twincat C# Client\\newFloder1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\beckhoff.twincat.ads\\6.1.86\\beckhoff.twincat.ads.6.1.86.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\beckhoff.twincat.ads.abstractions\\6.1.86\\beckhoff.twincat.ads.abstractions.6.1.86.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\beckhoff.twincat.ads.server\\6.1.86\\beckhoff.twincat.ads.server.6.1.86.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.componentmodel.composition\\7.0.0\\system.componentmodel.composition.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\shiva\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
